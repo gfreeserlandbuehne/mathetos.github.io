@@ -15,6 +15,10 @@
       "url": "https://www.gfreeserlandbuehne.de"
     }
   ],
+  "contact": {
+    "buttonText": "Schreibt uns!",
+    "url": "https://github.com/gfreeserlandbuehne/mathetos.github.io/contact"
+  },
   "theme": "dark",
   "gravatarHovercard": false
 } 
